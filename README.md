@@ -1,5 +1,5 @@
 ### Hi there 👋
-# [Your Name] - IT Professional and Software Engineer
+# DANIEL ISHIMWE - IT Professional and Software Engineer
 
 👨‍💻 **Experienced IT Officer | IT Specialist | System Engineer | Software Developer**
 
