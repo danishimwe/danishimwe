@@ -27,6 +27,5 @@ As an accomplished IT professional with a proven track record in IT management, 
 
 I'm always excited to connect with fellow IT professionals, developers, and tech enthusiasts. If you're looking for innovative solutions, collaboration opportunities, or simply want to discuss all things tech, feel free to reach out!
 
-**#ITProfessional #SoftwareEngineer #SystemAdministration #Innovation #TechnologyEnthusiast**<!--
-**danishimwe/danishimwe
+**#ITProfessional #SoftwareEngineer #SystemAdministration #Innovation #TechnologyEnthusiast**
 
