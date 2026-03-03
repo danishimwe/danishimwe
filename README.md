@@ -1,7 +1,7 @@
 ### Hi there 👋
-# DANIEL ISHIMWE - IT Professional, Software Engineer and Cybersecurity Enthusiast
+# DANIEL ISHIMWE - Cybersecurity Engineer - Systems & Infrastructure and Software Engineer
 
-👨‍💻 **Experienced IT Officer | IT Specialist | System Engineer | Software Developer | Cybersecurity Enthusiast**
+👨‍💻 **Cybersecurity Engineer | Experienced IT Specialist | System Engineer | Software Developer**
 
 🌟 **Passionate about Crafting Innovative Solutions for Organizational Success 🚀**
 
@@ -13,19 +13,31 @@
 
 ## About Me
 
-As an accomplished IT professional with a proven track record in IT management, system engineering, programming, software development, and cybersecurity, I am dedicated to creating innovative solutions that drive organizational efficiency and success. With over 5 years of experience in the technology industry, I possess a broad skill set and a deep understanding of various tech domains. My recent foray into cybersecurity has added a critical dimension to my expertise, allowing me to contribute to the security and resilience of digital infrastructures.
+Security-focused Systems Engineer with enterprise experience in infrastructure, database administration, and secure system operations. Currently pursuing a Master in Cybersecurity at ULB, with practical exposure to system hardening, log analysis, vulnerability assessment, and secure infrastructure management. Experienced in Linux and Windows environments, high-availability systems, and secure configuration of enterprise platforms. Active participant in Cybersecurity Challenge Belgium and SANS NetWars, with strong analytical and incident investigation mindset.
 
 ### Expertise
 
-💡 **Software Development:** I specialize in developing cutting-edge software applications that streamline operations and enhance user experiences.
+## Cybersecurity
+System hardening, secure configuration, vulnerability assessment, log analysis, incident investigation, access control management, network security fundamentals, CTF exploitation techniques, cryptography fundamentals, risk assessment
 
-🖥️ **System Administration:** System administration and maintenance are second nature to me, ensuring that systems are reliable and user-friendly.
+## Systems & Infrastructure Engineering
+High availability design, infrastructure monitoring, system upgrades, secure online voting systems
 
-🔗 **Database Management:** Proficient in managing databases and storage solutions, optimizing data accessibility and security.
+## Cloud & Virtualization
+IBM Hybrid Multicloud, VMware, VirtualBox, Firebase ecosystem, cloud integration concepts
+
+## DevOps & Tools
+Git, Docker, Vagrant, Ansible, Linux server management, deployment workflows, DNS configuration, domain hosting
+
+## Programming & Software Development
+C, C++, Python, Java, JavaScript, PHP, HTML, CSS, Flask, React, Next.js, backend API development, automation scripting
+
+## Databases
+MySQL, MariaDB, PostgreSQL, MongoDB, database design, performance tuning, data integrity validation
 
 ## Let's Connect
 
-I'm always excited to connect with fellow IT professionals, developers, and tech enthusiasts. If you're looking for innovative solutions, collaboration opportunities, or simply want to discuss all things tech, feel free to reach out!
+I'm always excited to connect with fellow Cybersecurity Analysts, IT professionals, developers, and tech enthusiasts. If you're looking for innovative solutions, collaboration opportunities, or simply want to discuss all things tech, feel free to reach out!
 
 **#ITProfessional #SoftwareEngineer #SystemAdministration #Innovation #TechnologyEnthusiast**
 
