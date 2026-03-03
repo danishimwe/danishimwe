@@ -17,22 +17,22 @@ Security-focused Systems Engineer with enterprise experience in infrastructure, 
 
 ### Expertise
 
-## Cybersecurity
+# Cybersecurity
 System hardening, secure configuration, vulnerability assessment, log analysis, incident investigation, access control management, network security fundamentals, CTF exploitation techniques, cryptography fundamentals, risk assessment
 
-## Systems & Infrastructure Engineering
+# Systems & Infrastructure Engineering
 High availability design, infrastructure monitoring, system upgrades, secure online voting systems
 
-## Cloud & Virtualization
+# Cloud & Virtualization
 IBM Hybrid Multicloud, VMware, VirtualBox, Firebase ecosystem, cloud integration concepts
 
-## DevOps & Tools
+# DevOps & Tools
 Git, Docker, Vagrant, Ansible, Linux server management, deployment workflows, DNS configuration, domain hosting
 
-## Programming & Software Development
+# Programming & Software Development
 C, C++, Python, Java, JavaScript, PHP, HTML, CSS, Flask, React, Next.js, backend API development, automation scripting
 
-## Databases
+# Databases
 MySQL, MariaDB, PostgreSQL, MongoDB, database design, performance tuning, data integrity validation
 
 ## Let's Connect
